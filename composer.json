@@ -1,0 +1,5 @@
+{
+    "require": {
+        "omniship/correios": "^1"
+    }
+}
