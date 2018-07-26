@@ -1,5 +1,6 @@
 {
     "require": {
-        "phpmga/omniship-correios": "^1"
-    }
+        "phpmga/omniship-correios": "dev-master"
+    },
+    "minimum-stability": "dev"
 }
