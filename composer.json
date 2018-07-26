@@ -1,5 +1,5 @@
 {
     "require": {
-        "omniship/correios": "^1"
+        "phpmga/omniship-correios": "^1"
     }
 }
